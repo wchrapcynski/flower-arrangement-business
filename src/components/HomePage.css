@@ -1,0 +1,33 @@
+.homepage-description-box {
+	display: flex;
+	margin: 0 auto;
+	width: 80%;
+	height: 400px;
+	background-color: var(--color-5);
+	border-radius: 40px;
+	-webkit-border-radius: 40px;
+	-moz-border-radius: 40px;
+	-ms-border-radius: 40px;
+	-o-border-radius: 40px;
+}
+
+.homepage-description-box img {
+	height: 400px;
+	border-right: 2px solid black;
+	border-radius: 40px 0 0 40px;
+	-webkit-border-radius: 40px 0 0 40px;
+	-moz-border-radius: 40px 0 0 40px;
+	-ms-border-radius: 40px 0 0 40px;
+	-o-border-radius: 40px 0 0 40px;
+}
+
+.homepage-description {
+	width: 100%;
+	padding: 40px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: var(--font1);
+	font-size: 2rem;
+	color: var(--color-2);
+}
