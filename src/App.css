@@ -11,6 +11,15 @@
   --gradient-2: linear-gradient(to bottom, var(--color-2), var(--color-1));
 
   --font1: "Indie Flower", cursive;
+
+  --image-1: url('./images/flowers1.jpg');
+  --image-2: url('./images/flowers2.jpg');
+  --image-3: url('./images/flowers3.jpg');
+  --image-4: url('./images/flowers4.jpg');
+  --image-5: url('./images/flowers5.jpg');
+  --image-6: url('./images/flowers6.jpg');
+  --image-7: url('./images/flowers7.jpg');
+  --image-8: url('./images/flowers8.jpg');
 }
 
 .App {

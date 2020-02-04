@@ -5,7 +5,7 @@ function HomePage() {
   return (
     <div className='homepage'>
       <div className='homepage-description-box'>
-        <img src={require("../images/flowers4.jpg")} />
+        <img src={require("../images/flowers4.jpg")} alt="flowers"/>
         <div className='homepage-description'>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id
           aliquam metus. Nam blandit, quam ac luctus pharetra, sem justo

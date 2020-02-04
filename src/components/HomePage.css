@@ -1,7 +1,7 @@
 .homepage-description-box {
 	display: flex;
 	margin: 0 auto;
-	width: 80%;
+	width: 1000px;
 	height: 400px;
 	background-color: var(--color-5);
 	border-radius: 40px;
